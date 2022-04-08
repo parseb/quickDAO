@@ -48,6 +48,9 @@ gem "bootsnap", require: false
 # Sign-in with ethereum
 gem "siwe" 
 
+# 
+gem 'web3-eth'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 

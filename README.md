@@ -1,5 +1,5 @@
 ## QuickDAO
-
+# WIP
 QuickDAO is a mobile app that lets you create a DAO on the move. 
 <hr>
 <br>
